@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abubeker Abe  and I'm a creative full stack developer ,from Ethiopia.</p>
+<p align="left">My name is Abubeker Abe  and I'm a  full stack dev from Addis Ababa, Ethiopia.</p>
 
 ###
 
