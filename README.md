@@ -1,12 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+
 
 ###
 
-<p align="left">I am Abubeker Abe. I'm a  full stack dev from Addis Ababa, Ethiopia.</p>
+<h1 align="center"> Abubeker Abe | Full-stack developer</h1>
 
 ###
-
-<h2 align="left">About me</h2>
 
 ###
 
