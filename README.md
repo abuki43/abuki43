@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center"> Abubeker Abe | Full-stack developer</h1>
+<h1 align="center"> Abubeker Abe | Software developer</h1>
 
 ###
 
