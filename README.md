@@ -2,7 +2,9 @@
 
 ###
 
-<h1 align="center"> Abubeker Abe | Software developer</h1>
+<h1 align="center"> Abubeker Abe | Full-Stack Engineer</h1>
+
+<h2 align="center"> Building fintech, Web3, automation, and mobile products. </h2>
 
 ###
 
